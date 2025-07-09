@@ -22,7 +22,7 @@ This is a frontend assignment submission for **Lexi**, which simulates a legal a
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/MuzzammilAfridi/Lexi.git
+git clone https://github.com/MuzzammilAfridi/Lexisg-frontend-intern-test-.git
 cd Lexi
 npm install
 npm start
