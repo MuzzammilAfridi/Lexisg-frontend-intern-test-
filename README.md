@@ -15,13 +15,8 @@ This is a frontend assignment submission for **Lexi**, which simulates a legal a
 
 ## How Citation Linking Was Handled
 
-Citation linking is handled by **adding a clickable citation to each response**. Every citation includes:
+Adding a clickable citation to the response is how citation linking is done. A direct link to the cited PDF is provided in every citation. The relevant document opens in a new tab when the user selects the citation. The paragraph for manual reference is also mentioned in the citation text. The design mimics how Lexi enables users to link AI-generated legal responses to actual documents.
 
-- A **direct link** to the cited PDF document
-- The **paragraph reference** mentioned in the citation text (e.g., "Para 7 of the document")
-- On click, the PDF **opens in a new browser tab**, allowing the user to manually verify the referenced legal material
-
-This design mimics how Lexi enables users to **trace AI-generated legal responses back to actual legal documents** for transparency and validation.
 
 ---
 
